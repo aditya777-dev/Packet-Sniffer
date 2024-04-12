@@ -1,12 +1,12 @@
 # Simple-Network-Packet-Analyzer
 
 
-# prerequisites:
+# Prerequisites:
 1. install npcap
 2. libraries: socket, scapy, datetime
 
 
-# execute traffic-packet-analyzer.py
+# Execute traffic-packet-analyzer.py
 
 
 # Code Functionality:

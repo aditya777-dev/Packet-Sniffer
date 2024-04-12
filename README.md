@@ -6,9 +6,6 @@
 2. libraries: socket, scapy, datetime
 
 
-# Execute traffic-packet-analyzer.py
-
-
 # Code Functionality:
 
 Imports necessary libraries: socket for network communication, scapy for packet manipulation, and datetime for time handling.
